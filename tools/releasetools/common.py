@@ -3460,7 +3460,8 @@ PARTITION_TYPES = {
     "ext4": "EMMC",
     "emmc": "EMMC",
     "f2fs": "EMMC",
-    "squashfs": "EMMC"
+    "squashfs": "EMMC",
+    "erofs": "EMMC"
 }
 
 
